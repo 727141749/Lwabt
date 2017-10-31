@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //这是第一次注释
         //天天向上
+        //如此美好
     }
 }
